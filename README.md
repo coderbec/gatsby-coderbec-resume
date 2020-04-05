@@ -1,3 +1,9 @@
+# Attribution
+
+This is my personal website which was based on a starter by Anubhav Srivastava which can be found [here](https://github.com/anubhavsrivastava/gatsby-starter-resume). 
+
+It's built in Gatsby and deployed to Netlify.
+
 # gatsby-starter-resume
 
 Gatsby.js V2 starter template based on Resume by startbootstrap
