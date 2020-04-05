@@ -34,6 +34,6 @@ module.exports = {
     },
   ],
   email: '',
-  phone: '000-00000',
+  phone: '',
   address: '',
 };

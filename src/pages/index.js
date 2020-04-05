@@ -270,22 +270,29 @@ Additional coursework in Programming, Database Management and Project Management
         <div className="w-100">
           <h2 className="mb-5">Volunteer positions and community</h2>
           <p>
-            Western BACE
+            <h3>Western BACE</h3>
+            I am a board director for The Western Business Accelerator and Centre of Excellence (Western BACE). <a href="https://westernbace.com/about/">Western BACE</a> was established and opened in May 2015 with the primary role of being the hub of enterprise, community activity and business development for Melbourne’s West.
+            <p></p>
           </p>
           <p className="mb-0">
             AUDA
           </p>
           <p className="mb-0">
-            Hackathons
+            <h3>Events management and operations</h3>
+
+            <p>In 2019 I coorginsed FFS COnf Down Under.</p>
+
+            <p>I am a co-organiser of NoCode Australia meetup group</p>
           </p>
           <p className="mb-0">
-            Events management and operations
+            <h3>Memberships</h3>
 
-            Organised FFS COnf Down understanding
+            <p>I am a member of the Chuchill CLub Australia</p>
 
-            Co-organiser of NoCode Australia meetup group
+            <p>I am associate member of Auda.</p>
           </p>
         </div>
+        
       </section>
 
       <hr className="m-0" />
@@ -301,12 +308,37 @@ Additional coursework in Programming, Database Management and Project Management
               <i className="fa-li fa fa-trophy text-warning"></i>
               TOGAF 9 certified Enterprise Architect
             </li>
+      
+          </ul>
+          <div></div>
+          <div >
+          <h3>Hackathons</h3>
+              <p>Over several years I have competed in teams that have placed or won awards at hackathons. I have subsequently moved to mentoring and facilitating.</p>
+              <ul className="fa-ul mb-0">
             <li>
               <i className="fa-li fa fa-trophy text-warning"></i>
-              Hackathons
+              Health Hack 2014 - 2nd place
+            </li>
+            <li>
+              <i className="fa-li fa fa-trophy text-warning"></i>
+              Unihack 2014 - 
+            </li>
+            <li>
+              <i className="fa-li fa fa-trophy text-warning"></i>
+              Hackagong 2014 - 
+            </li>
+            <li>
+              <i className="fa-li fa fa-trophy text-warning"></i>
+              Health Hack 2015 - 1st Place
+            </li>
+            <li>
+              <i className="fa-li fa fa-trophy text-warning"></i>
+              HealthXL 2015 - 1nd place
             </li>
           </ul>
         </div>
+        </div>
+       
       </section>
 
       <section
@@ -323,16 +355,53 @@ Additional coursework in Programming, Database Management and Project Management
           <p>I also speak at events and meetups occasionally. These are some of the talks I have given:</p>
           <ul className="fa-ul mb-0">
             <li>
-              <i className="fa-li fa fa-trophy text-warning"></i>
-              Are notifications a Dark Pattern? - Dark Patterns are tricks used in websites and apps that make you do things that you didn't mean to. This typically means things like buying something or signing up for something. It’s a concept in UX used to describe design choices that are intentionally deceptive. However, coding choices are also sometimes used to make you do things you don’t want to do, like force you to receive a message when you don’t want to or haven’t chosen to. While this is not strictly a ‘dark pattern’ I argue it’s a ‘grey pattern’, like a big pop up that forces you to double exit.
+              <i className="fa-li fa fa-microphone text-warning"></i>
+              <h3>Intro to Web App No-Code Development</h3>
+              <h4>No-Code Australia Meetup Feb 2020</h4>
+              <a href="https://docs.google.com/presentation/d/17Pzv2pF-pRIJdKhTbJ_O0tOZrZaSPPu4UBpbH0UwrLo/edit?usp=sharing">Slides</a>
+              <p>In this meetup we'll discuss the No Code movement and how it allows you to build beautiful/ functional websites without needing to learn code. Following an overview of the different web nocode platforms we'll focus on bubble as a means of creating interactive websites.</p>
             </li>
             <li>
-              <i className="fa-li fa fa-trophy text-warning"></i>
-              TOGAF 9 certified Enterprise Architect
+              <i className="fa-li fa fa-microphone text-warning"></i>
+              <h3>Are notifications a Dark Pattern?</h3>
+              <h4>YOW</h4>
+              <a href="https://docs.google.com/presentation/d/1XEnqOq9GQHZFV5rQjUCMnHFAQfExUnBn/edit?usp=sharing">Slides</a>
+              <p>Dark Patterns are tricks used in websites and apps that make you do things that you didn't mean to. This typically means things like buying something or signing up for something. It’s a concept in UX used to describe design choices that are intentionally deceptive. However, coding choices are also sometimes used to make you do things you don’t want to do, like force you to receive a message when you don’t want to or haven’t chosen to. While this is not strictly a ‘dark pattern’ I argue it’s a ‘grey pattern’, like a big pop up that forces you to double exit.</p>
             </li>
             <li>
-              <i className="fa-li fa fa-trophy text-warning"></i>
-              Hackathons
+              <i className="fa-li fa fa-microphone  text-warning"></i>
+              <h3>Coowning Documentation</h3> 
+              <h4>API The Docs</h4>
+              <a href="https://docs.google.com/presentation/d/1UseRGaajCXpPCSLxA8uZeocaUoaJxJLW/edit?usp=sharing">Slides</a>
+              <p>Differentiating between public facing and internal only docs that are managed by more than one person.</p>
+            </li>
+            <li>
+              <i className="fa-li fa fa-microphone  text-warning"></i>
+              <h3>Package Management Across 6 Languages</h3>
+              <h4>APIDAys</h4>
+              <a href="https://docs.google.com/presentation/d/1XEnqOq9GQHZFV5rQjUCMnHFAQfExUnBn/edit?usp=sharing">Slides</a>
+              <p>At MessageMedia I maintain SDKs across 6 programming languages for more than one API. This means I've had to learned how to manage packages in 6 ecosystems. In this talk I share introduce each ecosystem and impart the tips and tricks I've learned along the way.</p>
+            </li>
+            <li>
+              <i className="fa-li fa fa-microphone  text-warning"></i>
+              <h3>Aesthetic Hacking</h3>
+              <h4>SproutX Hackathon</h4>
+              <a href="https://speakerdeck.com/coderbec/aesthetic-hacking">Slides</a>
+              <p>Sometimes you aren't lucky enough to have a designer on your hackathon team. Making a beutiful looking solution is an important part of scoring well and winning prizes. In this talk I give some tips and tricks I've learned to create a nice looking solution without the help of a designer.</p>
+            </li>
+            <li>
+              <i className="fa-li fa fa-microphone  text-warning"></i>
+              <h3>Government Relations for Startups and SMEs</h3>
+              <h4>Binary Shift Conference</h4>
+              <a href="https://speakerdeck.com/coderbec/government-relations-for-startups-and-smes">Slides</a>
+              <p></p>
+            </li>
+            <li>
+              <i className="fa-li fa fa-microphone text-warning"></i>
+              <h3>Alternative Career Paths in Technology</h3>
+              <h4>ACS Career Day</h4>
+              <a href="https://speakerdeck.com/coderbec/alternative-career-paths-in-technology">Slides</a>
+              <p></p>
             </li>
           </ul>
         </div>
