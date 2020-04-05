@@ -23,10 +23,13 @@ const IndexPage = () => (
             <a href={`mailto:${config.email}`}>{config.email}</a>
           </div>
           <p className="lead mb-5">
-            I am experienced in leveraging agile frameworks to provide a robust
-            synopsis for high level overviews. Iterative approaches to corporate
-            strategy foster collaborative thinking to further the overall value
-            proposition.
+          I'm a technology enthusiast, hackathon hacker, consultant, freelancer and a Jill-of-all-trades. I especially enjoy producing mobile apps. I enjoy creating digital solutions for big problems.
+          </p>
+          <p className="lead mb-5">
+          You might have seen me around at hackathons! I participate in various hackathons throughout the year and also mentor and judge. Contact me about upcoming hackathon mentoring and judging opportunities.
+          </p>
+          <p className="lead mb-5">
+          I have a Masters of Applied Information Technology, and a Bachelor of Commerce (Accounting). I've worked in different roles in IT industry and advisory consulting and am a certified Enterprise Architect. 
           </p>
           <div className="social-icons">
             {config.socialLinks.map(social => {
@@ -52,69 +55,81 @@ const IndexPage = () => (
 
           <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
             <div className="resume-content">
-              <h3 className="mb-0">Senior Web Developer</h3>
-              <div className="subheading mb-3">Intelitec Solutions</div>
+              <h3 className="mb-0">Head of Developer Relations/Lead API Evangelist</h3>
+              <div className="subheading mb-3">MessageMedia</div>
               <p>
-                Bring to the table win-win survival strategies to ensure
-                proactive domination. At the end of the day, going forward, a
-                new normal that has evolved from generation X is on the runway
-                heading towards a streamlined cloud solution. User generated
-                content in real-time will have multiple touchpoints for
-                offshoring.
+                <ul>
+                  <li>Assist the CTO with building out a Developer Relations function and manage a small developer relations team. </li>
+                  <li>Responsible for the strategic direction of the developer toolkits and developer outreach activities (including within SMEs and startups).</li>
+                  <li>Maintain code bases and Software Development Kits in six languages, to assist developers using the MessageMedia APIs.</li>
+                  <li>Collaborate with marketing and events staff to represent the organisation at technology and developer industry events. </li>
+                </ul>
               </p>
             </div>
             <div className="resume-date text-md-right">
-              <span className="text-primary">March 2013 - Present</span>
+              <span className="text-primary">Oct. 2018 – Present</span>
             </div>
           </div>
 
           <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
             <div className="resume-content">
-              <h3 className="mb-0">Web Developer</h3>
-              <div className="subheading mb-3">Intelitec Solutions</div>
+              <h3 className="mb-0">Senior Adviser, Innovation & the Digital Economy</h3>
+              <div className="subheading mb-3">Office of the Hon. Minister Philip Dalidakis, Victorian Government</div>
               <p>
-                Capitalize on low hanging fruit to identify a ballpark value
-                added activity to beta test. Override the digital divide with
-                additional clickthroughs from DevOps. Nanotechnology immersion
-                along the information highway will close the loop on focusing
-                solely on the bottom line.
+                <ul>
+                  <li>LaunchVic: assisting with scaling and operational refinement of the $60m initiative designed to incubate and accelerate the startup ecosystem.</li>
+                  <li>Cyber-security and the digital economy: supporting the development of the Oceania Cyber-security Centre and Data61 Goods Shed precinct.</li>
+                  <li>Technology investment and attraction: liaising with Invest Victoria and international trade offices on enticing global tech companies to setup up regional headquarters in Victoria and then supporting subsequent cabinet submissions.</li>
+                  <li>ICT infrastructure investment: incorporating all economic aspects of telco access and delivery of key infrastructure initiatives such as Mobile Blackspot Program and the public Wi-Fi rollout. Strategic advisory on budget bids for continued investment and election policy.</li>
+                  <li>Innovation sector development: supporting infrastructure in areas where Victoria has a unique cultural or competitive advantage on the world stage such as Fintech. Worked extensively with a range of stakeholders on the tender and formation process for the Fintech Hub concept.</li>
+                  <li>Office management: acting in the role of Chief of Staff (CoS) when the CoS was on leave or travelling with the Minister.</li>
+                  <li>Stakeholder and departmental relations: working collaboratively with both external and internal stakeholders to achieve maximum impact and benefit for the government.</li>
+                  <li>Events, media and social media development: operating across the ecosystem to develop opportunities for the Minister and stakeholders to promote the innovation sector.</li>
+                  <li>Parliamentary and legislative duties: keeping the Minister prepared and equipped for his responsibilities in the Legislative Council of the Victorian Parliament. </li>
+                </ul>
               </p>
             </div>
             <div className="resume-date text-md-right">
-              <span className="text-primary">December 2011 - March 2013</span>
+              <span className="text-primary">Jan. 2017 – Jul. 2018</span>
             </div>
           </div>
 
           <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
             <div className="resume-content">
-              <h3 className="mb-0">Junior Web Designer</h3>
-              <div className="subheading mb-3">Shout! Media Productions</div>
+              <h3 className="mb-0">Developer Evangelist</h3>
+              <div className="subheading mb-3">Xero</div>
               <p>
-                Podcasting operational change management inside of workflows to
-                establish a framework. Taking seamless key performance
-                indicators offline to maximise the long tail. Keeping your eye
-                on the ball while performing a deep dive on the start-up
-                mentality to derive convergence on cross-platform integration.
+                <ul>
+                  <li>Manage the partner ecosystem for Xero – third-party developers who integrate with Xero’s Application Programming Interfaces (APIs).</li>
+                  <li>Inbound enquiries and certification of high-value partners who are listed on the marketplace.</li>
+                  <li>Outbound relationship building for developer partners, brand management, marketing and strategy for the developer ecosystem, public speaking, event management.</li>
+                  <li>Code sample creation and developer tools creation, specialist knowledge for API usage.</li>
+                  <li>Worked with marketing to prioritise platform vs. outbound evangelism strategy.</li>
+                  <li>Advocated for third party developers during both a Marketplace refresh/migration and a platform migration (to AWS cloud from RackSpace).</li>
+                  <li>Event Sponsorship strategic engagement including assessing and prioritizing opportunities and maximizing value creation. </li>
+                </ul>
               </p>
             </div>
             <div className="resume-date text-md-right">
-              <span className="text-primary">July 2010 - December 2011</span>
+              <span className="text-primary">Jun. 2016 – Jan. 2017</span>
             </div>
           </div>
 
           <div className="resume-item d-flex flex-column flex-md-row justify-content-between">
             <div className="resume-content">
-              <h3 className="mb-0">Web Design Intern</h3>
-              <div className="subheading mb-3">Shout! Media Productions</div>
+              <h3 className="mb-0">IT Advisory Consultant</h3>
+              <div className="subheading mb-3">EY, Australia</div>
               <p>
-                Collaboratively administrate empowered markets via plug-and-play
-                networks. Dynamically procrastinate B2C users after installed
-                base benefits. Dramatically visualize customer directed
-                convergence without revolutionary ROI.
+                <li>Consulted for the IT Advisory function of the EY Advisory practice.</li>
+                <li>Primary responsibilities included advanced modelling for business case costing and Enterprise Architecture modelling and strategy.</li>
+                <li>Included in project teams for consulting engagements as a technical resource – provided a deep understanding of digital technology, Information Security, and experience working with enterprise systems.</li>
+                <li>Projects cut across several industry verticals, in particular Energy and Utilities, Telecommunications, Fast Moving Consumer Goods and the Public Sector.</li>
+                <li>Achieved Enterprise Architecture professional certification (TOGAF 9) during this time.</li>
+                <li>Worked on a preliminary business case for Victorian Government’s Whole of Victorian Government Information Technology Strategy and Whole of Victorian Government Cyber Security, during which time I was a technology and information security domain knowledge resource for the project.</li>
               </p>
             </div>
             <div className="resume-date text-md-right">
-              <span className="text-primary">September 2008 - June 2010</span>
+              <span className="text-primary">Jan. 2015 – Jun. 2016</span>
             </div>
           </div>
         </div>
@@ -131,27 +146,46 @@ const IndexPage = () => (
 
           <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
             <div className="resume-content">
-              <h3 className="mb-0">University of Colorado Boulder</h3>
-              <div className="subheading mb-3">Bachelor of Science</div>
-              <div>Computer Science - Web Development Track</div>
-              <p>GPA: 3.23</p>
+              <h3 className="mb-0">Melbourne Business School</h3>
+              <div className="subheading mb-3">Graduate Diploma of Business Administration</div>
+              {/* <div>Computer Science - Web Development Track</div> */}
             </div>
             <div className="resume-date text-md-right">
-              <span className="text-primary">August 2006 - May 2010</span>
+              <span className="text-primary">2018 – ongoing</span>
+            </div>
+          </div>
+
+          <div className="resume-item d-flex flex-column flex-md-row justify-content-between">
+
+            <div className="resume-content">
+              <h3 className="mb-0">Monash University</h3>
+              <div className="subheading mb-3">Bachelor of Commerce</div>
+              <p>Specialisation in Network Infrastructure
+Coursework in Internet and Mobile Applications Development
+Additional coursework in Programming, Database Management and Project Management
+</p>
+            </div>
+            <div className="resume-date text-md-right">
+              <span className="text-primary">2012</span>
             </div>
           </div>
 
           <div className="resume-item d-flex flex-column flex-md-row justify-content-between">
             <div className="resume-content">
-              <h3 className="mb-0">James Buchanan High School</h3>
-              <div className="subheading mb-3">Technology Magnet Program</div>
-              <p>GPA: 3.56</p>
+              <h3 className="mb-0">University of Melbourne</h3>
+              <div className="subheading mb-3">Bachelor of Commerce</div>
+              <p>Major in Accounting
+              Coursework in Econometrics (Minor)
+              </p>
             </div>
             <div className="resume-date text-md-right">
-              <span className="text-primary">August 2002 - May 2006</span>
+              <span className="text-primary">2012 - 2014</span>
             </div>
-          </div>
         </div>
+        </div>
+
+        
+
       </section>
 
       <hr className="m-0" />
@@ -176,30 +210,30 @@ const IndexPage = () => (
             <li className="list-inline-item">
               <i className="fab fa-js-square"></i>
             </li>
-            <li className="list-inline-item">
+            {/* <li className="list-inline-item">
               <i className="fab fa-angular"></i>
             </li>
             <li className="list-inline-item">
-              <i className="fab fa-react"></i>
-            </li>
+              <i className="fab fa-react"></i> */}
+            {/* </li> */}
             <li className="list-inline-item">
               <i className="fab fa-node-js"></i>
             </li>
-            <li className="list-inline-item">
+            {/* <li className="list-inline-item">
               <i className="fab fa-sass"></i>
             </li>
             <li className="list-inline-item">
-              <i className="fab fa-less"></i>
-            </li>
+              <i className="fab fa-less"></i> */}
+            {/* </li> */}
             <li className="list-inline-item">
               <i className="fab fa-wordpress"></i>
             </li>
-            <li className="list-inline-item">
+            {/* <li className="list-inline-item">
               <i className="fab fa-gulp"></i>
             </li>
             <li className="list-inline-item">
-              <i className="fab fa-grunt"></i>
-            </li>
+              <i className="fab fa-grunt"></i> */}
+            {/* </li> */}
             <li className="list-inline-item">
               <i className="fab fa-npm"></i>
             </li>
@@ -209,11 +243,11 @@ const IndexPage = () => (
           <ul className="fa-ul mb-0">
             <li>
               <i className="fa-li fa fa-check"></i>
-              Mobile-First, Responsive Design
+              Documentation - (Swagger, OpenAPI, API Blueprint)
             </li>
             <li>
               <i className="fa-li fa fa-check"></i>
-              Cross Browser Testing &amp; Debugging
+              Troubleshooting and developer assistance
             </li>
             <li>
               <i className="fa-li fa fa-check"></i>
@@ -221,7 +255,7 @@ const IndexPage = () => (
             </li>
             <li>
               <i className="fa-li fa fa-check"></i>
-              Agile Development &amp; Scrum
+              Developer Toolkits
             </li>
           </ul>
         </div>
@@ -231,21 +265,25 @@ const IndexPage = () => (
 
       <section
         className="resume-section p-3 p-lg-5 d-flex align-items-center"
-        id="interests"
+        id="volunteer"
       >
         <div className="w-100">
-          <h2 className="mb-5">Interests</h2>
+          <h2 className="mb-5">Volunteer positions and community</h2>
           <p>
-            Apart from being a web developer, I enjoy most of my time being
-            outdoors. In the winter, I am an avid skier and novice ice climber.
-            During the warmer months here in Colorado, I enjoy mountain biking,
-            free climbing, and kayaking.
+            Western BACE
           </p>
           <p className="mb-0">
-            When forced indoors, I follow a number of sci-fi and fantasy genre
-            movies and television shows, I am an aspiring chef, and I spend a
-            large amount of my free time exploring the latest technology
-            advancements in the front-end web development world.
+            AUDA
+          </p>
+          <p className="mb-0">
+            Hackathons
+          </p>
+          <p className="mb-0">
+            Events management and operations
+
+            Organised FFS COnf Down understanding
+
+            Co-organiser of NoCode Australia meetup group
           </p>
         </div>
       </section>
@@ -261,34 +299,40 @@ const IndexPage = () => (
           <ul className="fa-ul mb-0">
             <li>
               <i className="fa-li fa fa-trophy text-warning"></i>
-              Google Analytics Certified Developer
+              TOGAF 9 certified Enterprise Architect
             </li>
             <li>
               <i className="fa-li fa fa-trophy text-warning"></i>
-              Mobile Web Specialist - Google Certification
+              Hackathons
+            </li>
+          </ul>
+        </div>
+      </section>
+
+      <section
+        className="resume-section p-3 p-lg-5 d-flex align-items-center"
+        id="speaking"
+      >
+        <div className="w-100">
+          <h2 className="mb-5">Public Speaking</h2>
+          <p>
+            Panel facilitation
+            Hosting the Scale up stage for Startup Grind APAC
+          </p>
+
+          <p>I also speak at events and meetups occasionally. These are some of the talks I have given:</p>
+          <ul className="fa-ul mb-0">
+            <li>
+              <i className="fa-li fa fa-trophy text-warning"></i>
+              Are notifications a Dark Pattern? - Dark Patterns are tricks used in websites and apps that make you do things that you didn't mean to. This typically means things like buying something or signing up for something. It’s a concept in UX used to describe design choices that are intentionally deceptive. However, coding choices are also sometimes used to make you do things you don’t want to do, like force you to receive a message when you don’t want to or haven’t chosen to. While this is not strictly a ‘dark pattern’ I argue it’s a ‘grey pattern’, like a big pop up that forces you to double exit.
             </li>
             <li>
-              <i className="fa-li fa fa-trophy text-warning"></i>1<sup>st</sup>
-              Place - University of Colorado Boulder - Emerging Tech Competition
-              2009
+              <i className="fa-li fa fa-trophy text-warning"></i>
+              TOGAF 9 certified Enterprise Architect
             </li>
             <li>
-              <i className="fa-li fa fa-trophy text-warning"></i>1<sup>st</sup>
-              Place - University of Colorado Boulder - Adobe Creative Jam 2008
-              (UI Design Category)
-            </li>
-            <li>
-              <i className="fa-li fa fa-trophy text-warning"></i>2<sup>nd</sup>
-              Place - University of Colorado Boulder - Emerging Tech Competition
-              2008
-            </li>
-            <li>
-              <i className="fa-li fa fa-trophy text-warning"></i>1<sup>st</sup>
-              Place - James Buchanan High School - Hackathon 2006
-            </li>
-            <li>
-              <i className="fa-li fa fa-trophy text-warning"></i>3<sup>rd</sup>
-              Place - James Buchanan High School - Hackathon 2005
+              <i className="fa-li fa fa-trophy text-warning"></i>
+              Hackathons
             </li>
           </ul>
         </div>
