@@ -23,7 +23,7 @@ const IndexPage = () => (
             <a href={`mailto:${config.email}`}>{config.email}</a>
           </div>
           <p className="lead mb-5">
-          I'm a technology enthusiast, hackathon hacker, consultant, freelancer and a Jill-of-all-trades. I especially enjoy producing mobile apps. I enjoy creating digital solutions for big problems.
+          I'm a technology enthusiast, hackathon hacker, consultant, freelancer and a Jill-of-all-trades.
           </p>
           <p className="lead mb-5">
           You might have seen me around at hackathons! I participate in various hackathons throughout the year and also mentor and judge. Contact me about upcoming hackathon mentoring and judging opportunities.
